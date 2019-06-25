@@ -2,7 +2,7 @@
     "name": "mango/module-tree",
     "description": "N/A",
     "require": {
-        "php": "~7.0.13|~7.1.0",
+        "php": "~7.0.13|~7.1.0"
 
     },
     "type": "magento2-module",
