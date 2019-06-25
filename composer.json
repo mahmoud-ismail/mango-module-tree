@@ -1,5 +1,5 @@
 {
-    "name": "mango/module-tree",
+    "name": "lemon/module-tree",
     "description": "N/A",
     "require": {
         "php": "~7.0.13|~7.1.0"
@@ -16,7 +16,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Mango\\tree\\": ""
+            "Lemon\\tree\\": ""
         }
     }
 }
